@@ -1,0 +1,45 @@
+#bg {
+    background-color: rgb(24, 24, 35);
+}
+#vopros {
+    color: rgb(255, 255, 255);
+    font-size: 100px;
+    margin-left: 34%;
+    margin-top: 10%;
+}
+#vopros2 {
+    color: rgb(255, 255, 255);
+    font-size: 100px;
+    margin-left: 39%;
+    margin-top: 10%;
+}
+#vopros3 {
+    color: rgb(255, 255, 255);
+    font-size: 100px;
+    margin-left: 30%;
+    margin-top: 10%;
+}
+#btns2 {
+    margin-top: 275px;
+}
+#btns {
+    margin-top: 300px;
+}
+#vopros4 {
+    color: rgb(255, 255, 255);
+    font-size: 100px;
+    margin-left: 39%;
+    margin-top: 10%;
+}
+#voprosf {
+    color: rgb(255, 255, 255);
+    font-size: 100px;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+#res {
+    color: rgb(255, 255, 255);
+    font-size: 75px;
+    margin-left: 25%;
+    margin-top: 15%;
+}
